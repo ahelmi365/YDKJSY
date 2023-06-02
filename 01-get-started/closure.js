@@ -25,4 +25,4 @@ console.log(startAt3(10));
 
 
 const startAt4 = range(4);
-console.log(startAt4(2));
+console.log(startAt4(12));
